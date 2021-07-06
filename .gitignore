@@ -45,6 +45,9 @@ Temporary Items
 #node files
 node_modules
 
+#dist 
+dist
+
 .vscode/argv.json
 .vscode/extensions/atishay-jain.all-autocomplete-0.0.23/.vsixmanifest
 .vscode/extensions/atishay-jain.all-autocomplete-0.0.23/CHANGELOG.md
